@@ -1,0 +1,1 @@
+EEG_Suite.m is the main block of code that performs preprocess, different feature selectin for PCA, and VLFeat SVM. Matlabs SVM is in the Classify folder and ran separatly from this matlab file.
